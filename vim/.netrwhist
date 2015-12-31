@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/cliu/qfpay/fxapps/todolist/test'
+let g:netrw_dirhist_2='/home/cliu/qfpay/toolserver/bin'
+let g:netrw_dirhist_3='/home/cliu/qfpay/duolaameng/conf'
+let g:netrw_dirhist_4='/home/cliu/qfpay/fxapps/grabmeetingroom'
+let g:netrw_dirhist_5='/etc/nginx/sites-enabled'
