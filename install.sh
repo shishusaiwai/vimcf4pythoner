@@ -1,3 +1,6 @@
+echo "安装flake8, 请输入sudo密码"
+sudo pip install flake8
+
 echo "覆盖.vimrc文件"
 cp vimrc ~/.vimrc
 if [ -d "$HOME/.vim" ]; then
