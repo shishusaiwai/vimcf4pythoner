@@ -28,3 +28,6 @@ call pathogen#infect()
 autocmd BufWritePost *.py call Flake8()
 let g:flake8_ignore="E501,E127,E128,E126,E124,W404"
 map <F4> o###CODEIMAGEo###ENDCODEIMAGE
+
+set listchars=tab:›\ ,trail:•,extends:>,precedes:<,nbsp:.
+set list
